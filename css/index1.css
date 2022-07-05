@@ -1,0 +1,66 @@
+.all{
+    min-height: 100vh;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+   
+   
+    /* background-color: brown; */
+}
+.sec1{
+    height: 150px;
+    margin: auto;
+    /* width: 500px; */
+    }
+    .mg1{
+        width: 1000px;
+        background-color: red;
+    }
+    .mg2{
+        margin-top: 50px;
+        width: 900px;
+        padding-top: 30px;
+        background-color: blue;
+    }
+    .mg3{
+        width: 800px;
+        padding-top: 30px;
+        background-color: green;
+       
+    }
+    .mg4{
+        width: 700px;
+        margin-top: 20px;
+        padding-top: 30px;
+       }
+    .mg5{
+        width: 600px;
+        padding-top: 30px;
+    }
+.mg6{
+     background-color: yellow;
+     width: 500px;
+     padding-top: 30px;
+     
+    }
+    .mg7{
+        background-color: purple;
+        height: 150px;
+        width: 300px;
+        padding-top: 30px;
+        
+    }
+    .mg8{
+        background-color: purple;
+        width: 200px;
+        height: 250px;
+        padding-top: 30px;
+       
+    }
+    .mg9{
+        background-color: white;
+        width: 100px;
+        height: 150px;
+        margin-top: 30px;
+       
+    }
